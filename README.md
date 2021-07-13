@@ -1,5 +1,4 @@
 # MS-Teams-Clone
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Build passing](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=flat-square)]( https://justvideoit.netlify.app/)&nbsp;[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)]( https://justvideoit.netlify.app/)&nbsp;![Made with Love in India](https://madewithlove.org.in/badge.svg)
 
 This is a video calling Web application which enables users to create or join a meet as well as chat with the participants of the meet.
 
